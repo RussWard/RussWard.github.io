@@ -1,0 +1,26 @@
+{
+  "name": "russward-github-page",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussWard/RussWard.github.io.git"
+  },
+  "author": "Russ Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussWard/RussWard.github.io/issues"
+  },
+  "homepage": "https://github.com/RussWard/RussWard.github.io#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.3.0"
+  }
+}
